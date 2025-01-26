@@ -1,2 +1,2 @@
-cmommand is good and 
-onr our is 
+jenkines is an open sourse and automation deployement and continouies delyery
+continouies intergration and continouies delivery and continouies deployepment
